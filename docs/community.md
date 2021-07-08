@@ -7,10 +7,10 @@
             src: https://irita.bianjie.ai/dist/iritahome_banner.png?6e06ddf5d16caa4745a65b41debe69c6,
             title: "IRITA HUB 的跨链实践与应用",
             owner: 边界智能,
-            time: 2021/03/06,
+            time: 2021/03/21,
             icon: /img/blog/bianjie_icon.png,
-            router: /blog/IRITAHUB的跨链实践与应用,
-            slot: IRITAHUB的跨链实践与应用,
+            router: /blog/blog003,
+            slot: blog003,
         },
         {
             src: /img/blog/blog_001_1.webp,
